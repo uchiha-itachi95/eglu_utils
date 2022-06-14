@@ -32,4 +32,4 @@ You can select the tool by `eglu --tool <tool_name> <rest of the command>`
 
 ##### Sub Commands :
 
-1. `s2p <SVG Directory Full Path> <Width> <Height>` : It will convert the SVG files inside your provided directory with provided Width and Height. **All arguments are mandatory**. Example `eglu --tool design s2p /Users/anuranbarman/Documents/new_icons_anu/camera 512 512`
+1. `s2p <SVG Directory Full Path> <Width> <Height>` : It will convert the SVG files inside your provided directory to PNG with provided Width and Height. **All arguments are mandatory**. Example `eglu --tool design s2p /Users/anuranbarman/Documents/new_icons_anu/camera 512 512`
