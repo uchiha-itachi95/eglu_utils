@@ -18,7 +18,7 @@ This comes with different set of tools. Following are the currently supported on
 
 1. `mongo`
 
-You can select the tool by `eglu --tool mongo <rest of the command>`
+You can select the tool by `eglu --tool <tool_name> <rest of the command>`
 
 ## Mongo Tool :
 
