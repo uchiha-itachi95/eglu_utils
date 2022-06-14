@@ -1,0 +1,17 @@
+{
+  "name": "eglu_utils",
+  "version": "1.0.0",
+  "description": "Utility tools for eGlu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuran Barman",
+  "license": "ISC",
+  "bin": {
+    "eglu": "index.js"
+  },
+  "dependencies": {
+    "yargs": "13.2"
+  }
+}
