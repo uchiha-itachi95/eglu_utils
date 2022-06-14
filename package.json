@@ -12,6 +12,8 @@
     "eglu": "index.js"
   },
   "dependencies": {
+    "convert-svg-to-png": "^0.6.4",
+    "shelljs": "^0.8.5",
     "yargs": "13.2"
   }
 }
